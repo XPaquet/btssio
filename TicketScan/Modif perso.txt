@@ -1,0 +1,2 @@
+- Ajouter le code de logActivity
+- Ajouter le code de connexion, de hashage, de message
